@@ -7,8 +7,9 @@
 katz_deli = []  
 
 def take_a_number
- if counter ==
-
+ counter = 0
+ loop do 
+   counter = counter + 1
 
 
 #def take_a_number(katz_deli, name)
