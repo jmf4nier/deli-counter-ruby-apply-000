@@ -4,4 +4,4 @@ def take_a_number(counter)
   
 end
 
-take_a_number
+take_a_number(counter)
