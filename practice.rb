@@ -4,4 +4,4 @@ def take_a_number
   puts "#{counter += 1}"
 end
 
-take_a_number(counter)
+take_a_number
