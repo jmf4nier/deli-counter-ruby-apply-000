@@ -8,7 +8,7 @@ katz_deli = []
 
 def take_a_number(katz_deli)
   katz_deli.push("person") 
-  puts "You are number #{katz_deli.lenght}"
+  puts "You are number #{katz_deli.length}."
 end
 take_a_number(katz_deli)
 
