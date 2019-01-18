@@ -6,8 +6,14 @@
 
 katz_deli = []  
 
-  
-def take_a_number(katz_deli, name)
+def take_a_number(katz_deli)
+  katz_deli.push 
+  puts "You are number #{katz_deli.lenght}"
+
+
+
+
+#def take_a_number(katz_deli, name)
   katz_deli.push name
   puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
   
